@@ -6,3 +6,4 @@ Builder at heart. Curious about the world. Hyper-ambitious.
 - [Road2Jepa](https://github.com/rkdune/roadtojepa): jupyter implementation of Meta's I-JEPA architecture from first principles
 - [RacingTown](https://github.com/rkdune/racing-town): a fun pixel-art style racing game made in Godot
 - [AshTheme](https://github.com/rkdune/ash-theme): WIP minimal and focused theme for Jekyll websites
+- [SAEBenchmarking](https://github.com/rkdune/sae_benchmarking): world's first benchmarking implementation of SAEs on LM-Eval Harness
