@@ -1,5 +1,5 @@
 ## Rohan Kalia
-Builder at heart. Curious about the world. Hyper-ambitious.
+Builder at heart.
 
 - **[InterpMonitor](http://github.com/rkdune/interp-monitoring):** world's first interpretable LLM conversation tool -- explore what LLMs are thinking, see top-activating concepts, and track feature categories over time.
 - **[ProtoGen](https://github.com/MehulKalia/mcp_scientist):** Claude Code for protein design with MCPs for AlphaFold, Exa paper search, and binding efficiencies
