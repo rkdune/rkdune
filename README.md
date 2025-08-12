@@ -1,9 +1,1 @@
-<h2> Rohan Kalia </h2>
-<p> builder at heart. </p>
-<div align="center">
-<!-- <img style="width: 25em;" src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/52a51244037834d41778e57a5599cb98420597ad_happy.gif" alt="tamagitchi" /><br>
-
-<p>octocat is feeling happy because rkdune has made >= one commit today!</p>
-
-<p>last updated: 20:45 utc</p> -->
-</div>
+![banner](https://github.com/user-attachments/assets/2e7fa248-3aa8-4c4c-be6b-4834b39aeb83)
